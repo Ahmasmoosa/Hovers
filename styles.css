@@ -1,0 +1,123 @@
+.zero{
+    display: flex;
+}
+
+.zero .one{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png8.jpg);
+    background-color: yellow;
+}
+.zero .one:hover{
+    background-image: url(image.png);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
+
+.zero .two{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png7.jpg);
+    background-color: yellow;
+}
+.zero .two:hover{
+    background-image: url(image.png2.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
+
+.zero .three{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png6.jpg);
+    background-color: yellow;
+}
+.zero .three:hover{
+    background-image: url(image.png3.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
+
+.zero .four{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png5.jpg);
+    background-color: yellow;
+}
+.zero .four:hover{
+    background-image: url(image.png4.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
+
+.zero .five{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png4.jpg);
+    background-color: yellow;
+}
+.zero .five:hover{
+    background-image: url(image.png5.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
+
+.zero .six{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png3.jpg);
+    background-color: yellow;
+}
+.zero .six:hover{
+    background-image: url(image.png6.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
+
+.zero .seven{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png2.jpg);
+    background-color: yellow;
+}
+.zero .seven:hover{
+    background-image: url(image.png7.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
+
+.zero .eight{
+    width: 130px;
+    height: 130px;
+    margin: 5px;
+    background-image: url(image.png);
+    background-color: yellow;
+}
+.zero .eight:hover{
+    background-image: url(image.png8.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    transition: 1s;
+}
